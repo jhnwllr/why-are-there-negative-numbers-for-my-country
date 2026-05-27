@@ -1,0 +1,28 @@
+# R outputs
+*.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Output files
+*.csv
+*.txt
+*.html
+*.log
+
+# VS Code history
+.history/
+
+# Trino/Database outputs
+poland_results*.csv
+poland_results*.txt
+discovery_results*
+analysis_results*
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
